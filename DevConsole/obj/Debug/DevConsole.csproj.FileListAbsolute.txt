@@ -1,0 +1,6 @@
+D:\_development\_Projects\DevConsole\DevConsole\bin\Debug\DevConsole.exe.config
+D:\_development\_Projects\DevConsole\DevConsole\bin\Debug\DevConsole.exe
+D:\_development\_Projects\DevConsole\DevConsole\bin\Debug\DevConsole.pdb
+D:\_development\_Projects\DevConsole\DevConsole\obj\Debug\DevConsole.csprojResolveAssemblyReference.cache
+D:\_development\_Projects\DevConsole\DevConsole\obj\Debug\DevConsole.exe
+D:\_development\_Projects\DevConsole\DevConsole\obj\Debug\DevConsole.pdb
